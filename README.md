@@ -1,4 +1,4 @@
-## Hey all, I'm Ayush Chauhan👋
+## Namaste Everyone, I'm Ayush Chauhan👋
 
 ## I'm a Programmer who loves Artificial Intelligence!
 
