@@ -22,17 +22,16 @@
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png?token=exp=1616667361~hmac=96d0764f81f0980706d535e0c15e6dd8" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />
+<img align="left" alt="Sass" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+<img align="left" alt="React" width="26px" src="https://cdn-icons-png.flaticon.com/512/753/753244.png" />
 <img align="left" alt="Django" width="50px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png?token=exp=1616667514~hmac=5cf2eb53e91355c7d74f6909de883129" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/337/337953.png" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968254.png" />
+<img align="left" alt="Git" width="26px" src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" />
+<img align="left" alt="Terminal" width="26px" src="https://cdn-icons-png.flaticon.com/512/7544/7544562.png" />
 
 <br />
 <br />
@@ -40,7 +39,7 @@
 
 
 #### GitHub README Stats
- <img align="left" alt="Ayush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ayushchauhan009&show_icons=true&hide_border=true&theme=radical" />
+ <img align="left" alt="Ayush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aayushchauhan10&show_icons=true&hide_border=true&theme=radical" />
 
 
 [twitter]: https://twitter.com/AyushChauhan087
