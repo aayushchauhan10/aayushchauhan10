@@ -38,10 +38,6 @@
 
 
 
-#### GitHub README Stats
- <img align="left" alt="Ayush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aayushchauhan10&show_icons=true&hide_border=true&theme=radical" />
-
-
 [twitter]: https://twitter.com/AyushChauhan087
 [facebook]:https://www.facebook.com/ayush.chauhan.31149359
 [instagram]: https://www.instagram.com/ayushchauhanrajput/
