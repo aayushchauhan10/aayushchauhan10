@@ -1,6 +1,6 @@
-## Namaste Everyone, I'm Ayush Chauhan👋
+## Hey Everyone, I'm Ayush Chauhan👋
 
-## I'm a Programmer who loves Artificial Intelligence!
+### I'm a Programmer who loves Artificial Intelligence!
 - 🌱 I’m currently learning ReactJS and Tailwind CSS.
 - 👯 I’m looking to collaborate with other github creators.
 - 🥅 2023 Goals: Contribute more to my own projects and to apply at my favorite job.
